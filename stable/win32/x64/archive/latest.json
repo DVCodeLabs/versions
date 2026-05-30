@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/DVCodeLabs/RunQL-IDE/releases/download/1.112.03399010901/RunQL-win32-x64-1.112.03399010901.zip",
-  "name": "1.112.03399010901",
-  "version": "0645c7e94ea4c90ddd9f79d293832fb76ccb9f3f",
-  "productVersion": "1.112.03399010901",
-  "hash": "38a7a883d47ea19aca2e78cdc2f0c77d93d78076",
-  "timestamp": "1779380914049",
-  "sha256hash": "1ddee49dcb3bb34d9eb8ccbc856f4730fbff185dcf4276ae29fbd80e75bab4df"
+  "url": "https://github.com/DVCodeLabs/RunQL-IDE/releases/download/1.112.03606011000/RunQL-win32-x64-1.112.03606011000.zip",
+  "name": "1.112.03606011000",
+  "version": "9bf65be62f9b432ec2a3da432b738df2a0631196",
+  "productVersion": "1.112.03606011000",
+  "hash": "b50530b79dabde755f8938a4f98a057e1b0e750d",
+  "timestamp": "1780124583148",
+  "sha256hash": "5c0aca5dff7db72942f93440a960f64358205f000172ec4e0a2cc04c8658629e"
 }
