@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/DVCodeLabs/RunQL-IDE/releases/download/1.112.03677011101/RunQL-linux-arm64-1.112.03677011101.tar.gz",
-  "name": "1.112.03677011101",
-  "version": "6fad24f4241f4c3cdbd51b5eacd50580e87eaf38",
-  "productVersion": "1.112.03677011101",
-  "hash": "9d3ffec82369ab989233bfa0a3eb5ab5a3a4d957",
-  "timestamp": "1780377930374",
-  "sha256hash": "b52baf4d8fff9c2023ab5a0c8d1c7801bf0ee712a534eafe681da66991a5054a"
+  "url": "https://github.com/DVCodeLabs/RunQL-IDE/releases/download/1.112.03690011102/RunQL-linux-arm64-1.112.03690011102.tar.gz",
+  "name": "1.112.03690011102",
+  "version": "b3c23107dedb09026556e63f8f67b66c32d29d8d",
+  "productVersion": "1.112.03690011102",
+  "hash": "0eeee6dbcfb4b92a0f298046ee4cbff7084ccabc",
+  "timestamp": "1780427335678",
+  "sha256hash": "49bbbc48b5c9dc181d654927f03a37d3ac98bc110efcd35e36c197d6fda50dc6"
 }
