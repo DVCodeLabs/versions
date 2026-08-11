@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/DVCodeLabs/RunQL-IDE/releases/download/1.121.03429011602/RunQL-x64-1.121.03429011602.msi",
-  "name": "1.121.03429011602",
-  "version": "3b97d00f3ddc8c0509e43b670b50846927b494eb",
-  "productVersion": "1.121.03429011602",
-  "hash": "e504a13775fdb22f961f509b7dae1efa6fea69da",
-  "timestamp": "1785988687994",
-  "sha256hash": "8a88abcca77b04eb904e76d465c08ef1ebe8115ada2474bb53aa0ee1a48c6bdb"
+  "url": "https://github.com/DVCodeLabs/RunQL-IDE/releases/download/1.121.03429011700/RunQL-x64-1.121.03429011700.msi",
+  "name": "1.121.03429011700",
+  "version": "c49d0b4a4235ca1d8b20142cd7c3c2d3f5cf14c4",
+  "productVersion": "1.121.03429011700",
+  "hash": "33bb02a62c79761388a7f01aee6f244d234e33ae",
+  "timestamp": "1786487061985",
+  "sha256hash": "01e940992bbcff6a8ac5a3ce3484aa85e557d21b9827dc83d56139de03754cca"
 }
