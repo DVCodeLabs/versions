@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/DVCodeLabs/RunQL-IDE/releases/download/1.121.03429011700/RunQL-darwin-arm64-1.121.03429011700.zip",
-  "name": "1.121.03429011700",
-  "version": "c49d0b4a4235ca1d8b20142cd7c3c2d3f5cf14c4",
-  "productVersion": "1.121.03429011700",
-  "hash": "797f5e4c3cc400ca369917611f32d71da69e3d05",
-  "timestamp": "1786485685551",
-  "sha256hash": "6d67a1a994b653bce310102df5f5bcba33f64c814c586b622fe6220382e14996"
+  "url": "https://github.com/DVCodeLabs/RunQL-IDE/releases/download/1.121.03429011701/RunQL-darwin-arm64-1.121.03429011701.zip",
+  "name": "1.121.03429011701",
+  "version": "553650cdd7a0b80cbf21d80071c0eb4b9420d938",
+  "productVersion": "1.121.03429011701",
+  "hash": "c96caa5a35db98479e337100e8f556a2ccbcbbf6",
+  "timestamp": "1786650533333",
+  "sha256hash": "5e9c35daa76d9483d9d300697a7ccd02cbb68b50aa7dec814808e26faedd2bf1"
 }
